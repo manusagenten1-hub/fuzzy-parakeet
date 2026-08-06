@@ -1,0 +1,6 @@
+{
+  "name": "Presentes de Dia dos Pais",
+  "description": "Landing page de alta conversão para guia de presentes de Dia dos Pais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
