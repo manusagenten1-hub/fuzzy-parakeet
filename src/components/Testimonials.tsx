@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 
 const testimonials = [
-  "https://i.ibb.co/0VC145hx/Whats-App-Image-2026-08-05-at-22-16-29.jpg",
+  "https://i.ibb.co/wZTR78QP/Whats-App-Image-2026-08-05-at-22-16-53.webp",
   "https://i.ibb.co/LXVJ0LrD/Whats-App-Image-2026-08-05-at-22-16-53.jpg",
 ];
 
