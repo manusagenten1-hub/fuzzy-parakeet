@@ -31,7 +31,7 @@ export function Hero() {
       >
         <div className="absolute inset-0 bg-gradient-to-br from-white to-[#F9FAFB]"></div>
         <img 
-          src="https://i.ibb.co/VY3ddxNH/Chat-GPT-Image-5-de-ago-de-2026-21-57-02.png"
+          src="https://i.ibb.co/Df1zwTFd/Chat-GPT-Image-5-de-ago-de-2026-21-57-02.webp"
           alt="Guia Definitivo Dia dos Pais"
           className="z-10 w-full h-full object-contain transform group-hover:scale-105 transition-transform duration-700 p-4"
           referrerPolicy="no-referrer"
