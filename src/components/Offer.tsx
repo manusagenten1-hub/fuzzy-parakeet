@@ -17,7 +17,7 @@ export function Offer() {
           
           <div className="mb-8 flex justify-center md:justify-start">
             <img 
-              src="https://i.ibb.co/VY3ddxNH/Chat-GPT-Image-5-de-ago-de-2026-21-57-02.png" 
+              src="https://i.ibb.co/Df1zwTFd/Chat-GPT-Image-5-de-ago-de-2026-21-57-02.webp" 
               alt="Mockup do material" 
               className="w-full max-w-[300px] h-auto object-contain drop-shadow-xl"
               referrerPolicy="no-referrer"
